@@ -1,6 +1,8 @@
 # Jupyterlite Notebook
 Introduction: this is the peer-graded assignment
+
 Python,R,SQL,Julia,Scala.Java,C/C++
+
 NumPy,pandas,Matplotlib,Seaborn,scikit-learn,TensorFlow,PyTorch,Keras,SciPy,NLTK
 | Tool            | Description                                                                                      |
 |-----------------|--------------------------------------------------------------------------------------------------|
@@ -13,6 +15,7 @@ NumPy,pandas,Matplotlib,Seaborn,scikit-learn,TensorFlow,PyTorch,Keras,SciPy,NLTK
 | TensorFlow      | An open-source machine learning framework developed by Google for building and training models.  |
 | SAS             | A software suite used for advanced analytics, business intelligence, and data management.       |
 | KNIME           | An open-source data analytics platform for building data pipelines and workflows.               |
+
 Addition:
    - \( 3 + 4 = 7 \)
    - \( 10 + (-5) = 5 \)
