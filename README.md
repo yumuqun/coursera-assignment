@@ -16,10 +16,7 @@ NumPy,pandas,Matplotlib,Seaborn,scikit-learn,TensorFlow,PyTorch,Keras,SciPy,NLTK
 | SAS             | A software suite used for advanced analytics, business intelligence, and data management.       |
 | KNIME           | An open-source data analytics platform for building data pipelines and workflows.               |
 
-Addition:
-   - \( 3 + 4 = 7 \)
-   - \( 10 + (-5) = 5 \)
-   - \( x + y \)
+Arithmetic expression examples demonstrate fundamental mathematical operations and serve as foundational tools in various domains, from basic calculations to complex algorithms.
 
 The objectives of this project are as follows:
 
